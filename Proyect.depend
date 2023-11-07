@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1699224790 source:c:\users\matias reimondez\documents\programacion\proyect\main.cpp
+	<iostream>
+	"Window.cpp"
+
+1699378115 c:\users\matias reimondez\documents\programacion\proyect\window.cpp
+	"WINDOW.h"
+
+1699225588 c:\users\matias reimondez\documents\programacion\proyect\window.h
+	<string>
+	<stdio.h>
+	<string.h>
+	<Windows.h>
+	"DataBase.cpp"
+
+1698716428 c:\users\matias reimondez\documents\programacion\proyect\database.cpp
+
+1683245681 source:c:\users\matias reimondez\documents\programacion\proyect\window.cpp
+	"WINDOW.h"
+
